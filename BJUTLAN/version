@@ -1,2 +1,2 @@
-#version=1.5.0;
-#uplog=修复开机启动BUG;
+#version=1.5.1;
+#uplog=可以为您选中的MAC地址设置标签\n新版本功能;
