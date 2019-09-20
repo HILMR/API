@@ -1,3 +1,3 @@
 #version=1.5.1;
-#uplog=新版本特新\n您可以为选中的MAC地址设置标签，以便更好区分不同的设备;
-#upurl=www.baidu.com;
+#uplog=新版本特新\n您可以为选中的MAC地址设置标签，以便更好区分不同的设备\n单击此处打开下载页面;
+#upurl=https://github.com/HILMR/API/edit/master/BJUTLAN/version;
