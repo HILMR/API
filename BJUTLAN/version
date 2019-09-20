@@ -1,2 +1,2 @@
-#version=1.5.0
+#version=1.5.0;
 #uplog=修复开机启动BUG;
